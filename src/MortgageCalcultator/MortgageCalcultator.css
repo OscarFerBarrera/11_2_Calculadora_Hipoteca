@@ -1,0 +1,13 @@
+.mortage-calculato{
+    margin: 20px;
+}
+
+.mortgage-calculator__fieldset {
+    border: none;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+/* 
+.mortage-calculator__line{
+    display: flexbox;
+} */
